@@ -1,0 +1,2 @@
+# mysql_del_update_flaskback
+mysql闪回delete或update语句
